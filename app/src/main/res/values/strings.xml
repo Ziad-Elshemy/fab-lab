@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MaterialDesignDay3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="next">Next</string>
+    <string name="small_description">small description</string>
+    <string name="iphone_14">Iphone 14</string>
+    <string name="apple">Apple</string>
+    <string name="samsung">Samsung</string>
+    <string name="oppo">Oppo</string>
+</resources>
